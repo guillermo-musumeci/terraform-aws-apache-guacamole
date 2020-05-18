@@ -1,2 +1,3 @@
-# terraform-aws-apache-guacamole
-Deploy Apache Guacamole
+# Terraform AWS Apache Guacamole
+
+Deploying Apache Guacamole in AWS using Terraform
